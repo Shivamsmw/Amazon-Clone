@@ -1,3 +1,41 @@
+# Amazon Cone Application
+
+
+
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://fluffy-palmier-22aeb2.netlify.app/)
+
+Amazon is an E-commerce website that allows you to buy various products online
+
+
+## Features
+
+- Home page that gives the general view of the site.
+- Login page that  authenticate the existing user.
+- Register page that helps the new user to register.
+- Product detail page to showcase the product description.
+- Cart page to buy add and buy the specific product.
+
+
+
+
+
+## Tech Stack
+
+
+
+- [React] - Creating the application.
+- [Microsoft Visual Studio Code] - awesome  text editor.
+- [Redux] - Effective general state management.
+- [Bootstrap] - great UI boilerplate for modern web apps
+- [Javascript] - various logic manupulations.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
